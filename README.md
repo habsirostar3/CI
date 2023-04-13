@@ -1,6 +1,3 @@
-# fastlane.ci
-
-**This repository is deprecated as of September 2018**. 
 
 As we were building fastlane.ci we realized that it wasn't going to cover all the requirements we wanted to support. We are currently in the process of re-evaluating our approach and are actively working on a better solution, [subscribe here to be the first one to be notified about any upcoming launches](https://tinyletter.com/fastlane-tools).
 
